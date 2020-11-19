@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 Thsi is file chan change
+=======
+apple
+banana
+orange
+mango
+>>>>>>> 57a8806578a11fb0b55b7bdd80be227d4b6db603
